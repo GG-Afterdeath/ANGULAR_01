@@ -1,0 +1,22 @@
+.titulo{
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.container-sm{
+    width: 33%;
+    margin-top: 10%;
+}
+
+.form-control{
+    margin-top: 4%;
+}
+
+.btn {
+    margin-left: 5%;
+    width: 55%;
+}
+a{
+    margin-left: 8%;
+}

@@ -1,0 +1,18 @@
+::placeholder{
+    text-align: center;
+    font-weight: bold;
+}
+
+.titulo {
+    text-align: center;
+}
+
+.container-sm {
+    margin-top: 5%;
+    width: 55%;
+}
+
+input {
+    margin-top: 2%;
+}
+    
